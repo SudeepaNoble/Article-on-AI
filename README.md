@@ -1,2 +1,2 @@
 # Article-on-AI
-An Article on Artificial Intelligence
+An article on Artificial Intelligence
